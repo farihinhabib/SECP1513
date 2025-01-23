@@ -1,6 +1,7 @@
 # SECP1513
 Technology and Information System 24/25
-As a primer subject, this course will introduce students to information systems and technology (IS/IT) and its uses at
+
+This course will introduce students to information systems and technology (IS/IT) and its uses at
 home and work. Various aspects of IS/IT encompassing hardware, software, network and communications will be
 introduced. Students will be equipped with basic skills in handling PC installation and productivity tools via practical
 work in the labs, which shall comprise a major part of the study. This class also conducts industry visits and talks as a
